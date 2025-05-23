@@ -29,7 +29,7 @@
 	```bash
 	python install_models.py		
 	```
-*<div>
+*<div style="margin-left:60px;line-height:16px">
     <small>
     Note: You can also install manually by downloading the two models and extracting them to their folders:
 	place into sentiment_model: 
