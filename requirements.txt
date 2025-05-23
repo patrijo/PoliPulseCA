@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+nltk
+vaderSentiment
+textblob
+matplotlib
+seaborn
+scipy
+pandas
+sklearn
+statsmodels
+tqdm
+python-docx
