@@ -3,6 +3,7 @@
 This folder is intentionally empty.
 
 Download the model files from Google Drive (see main README) and place them here.
+
 Note: You need to place a distilBERT_sentiment or compatible model here only if you want to train your own models
 
 Options:
