@@ -3,7 +3,7 @@
 # General mode for sentiment or political tone trend analysis using transformer models
 # in PoliPulseCA. Streamlit UI for uploading, filtering, analyzing, and visualizing results.
 # Dependencies: torch, transformers, streamlit, nltk, vaderSentiment, matplotlib, seaborn, scipy, pandas
-# Author: 
+# Author: P. Jost
 # Date: May 2025
 # License: MIT License (code), CC BY 4.0 (training data/tables/docs) https://creativecommons.org/licenses/by/4.0/
 #          Transformer models: Apache 2.0; data: US public domain/open

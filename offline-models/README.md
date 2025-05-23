@@ -1,6 +1,6 @@
 ﻿## Offline Models
  
-This folder is intentionally empty.
+This folder is intentionally empty. Before initial run -> download transformer model.
 
 Download the model files from Google Drive (see main README) and place them here.
 

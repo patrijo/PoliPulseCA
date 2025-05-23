@@ -56,3 +56,7 @@
 - **Training data & docs**: CC BY 4.0
 - **Transformer models**: Apache 2.0
 - **SoU dataset/speech transcriptions**: Public Domain
+
+## Author
+
+- P. Jost

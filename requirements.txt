@@ -12,3 +12,4 @@ sklearn
 statsmodels
 tqdm
 python-docx
+gdown

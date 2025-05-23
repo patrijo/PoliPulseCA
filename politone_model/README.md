@@ -1,6 +1,6 @@
 ﻿## PoliTone Model
  
-This folder is intentionally empty.
+This folder is intentionally empty. Before initial run -> download transformer model.
 
 Please download the model and place it here.
 
