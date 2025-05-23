@@ -29,11 +29,15 @@
 	```bash
 	python install_models.py		
 	```
-*<div style="margin-left:10%;line-height:16px"><small>Note: You can also install manually by downloading the two models and extracting them to their folders:
+*<div style="margin-left:10%;line-height:16px">
+    <small>
+    Note: You can also install manually by downloading the two models and extracting them to their folders:
 	place into sentiment_model: 
 	distilbert_sentiment: https://drive.google.com/file/d/1YRs3IImXqkn3_iJg5HhrJbkhivy3L4fV/view?usp=drive_link
 	place into politone_model:
-	distilbert_politone: https://drive.google.com/file/d/18mlm08N71XfyrRhVOPyXGCoeAqyaLnZC/view?usp=drive_link</small></div>*
+	distilbert_politone: https://drive.google.com/file/d/18mlm08N71XfyrRhVOPyXGCoeAqyaLnZC/view?usp=drive_link
+    </small>
+    </div>*
 
 4. Run the application:
     ```bash
