@@ -34,8 +34,7 @@
 	place into sentiment_model: 
 	distilbert_sentiment: https://drive.google.com/file/d/1YRs3IImXqkn3_iJg5HhrJbkhivy3L4fV/view?usp=drive_link
 	place into politone_model:
-	distilbert_politone: https://drive.google.com/file/d/18mlm08N71XfyrRhVOPyXGCoeAqyaLnZC/view?usp=drive_link
-    *</small>
+	distilbert_politone: https://drive.google.com/file/d/18mlm08N71XfyrRhVOPyXGCoeAqyaLnZC/view?usp=drive_link*</small>
 
 4. Run the application:
     ```bash
