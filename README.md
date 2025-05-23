@@ -29,7 +29,7 @@
 	```bash
 	python install_models.py		
 	```
-*<div style="margin-left:5%;line-height:16px"><small>Note: You can also install manually by downloading the two models and extracting them to their folders:
+*<div style="margin-left:10%;line-height:16px"><small>Note: You can also install manually by downloading the two models and extracting them to their folders:
 	place into sentiment_model: 
 	distilbert_sentiment: https://drive.google.com/file/d/1YRs3IImXqkn3_iJg5HhrJbkhivy3L4fV/view?usp=drive_link
 	place into politone_model:
