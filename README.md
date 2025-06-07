@@ -16,7 +16,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PoliPulseCA.git
+    git clone https://github.com/patrijo/PoliPulseCA.git
     cd PoliPulseCA
     ```
 
