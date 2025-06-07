@@ -8,7 +8,7 @@ matplotlib
 seaborn
 scipy
 pandas
-sklearn
+scikit-learn
 statsmodels
 tqdm
 python-docx
